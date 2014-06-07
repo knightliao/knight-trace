@@ -1,9 +1,9 @@
-knight-trace
+锘縦night-trace
 ============
 
 A C++ trace(LOG) library. 
 
-## 项目信息 ##
+## 椤圭洰淇℃伅 ##
 
 - C++
 - VS2012
